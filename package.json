@@ -1,0 +1,17 @@
+{
+  "name": "stack_structure",
+  "version": "1.0.0",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon script.js",
+    "start2":"nodemon Hashtable.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
