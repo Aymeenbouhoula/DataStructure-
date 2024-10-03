@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "start": "nodemon script.js",
-    "start2":"nodemon Hashtable.js"
+    "start2":"nodemon Hashtable.js",
+    "start3":"nodemon Recursive.js"
   },
   "keywords": [],
   "author": "",
